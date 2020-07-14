@@ -1,5 +1,8 @@
-# Apps From Scratch | Flutter Chat UI Starter Repo
+# LoA'a Chat UI
 
-Clone this repo and follow my YouTube video: [Flutter Chat UI Tutorial | Apps From Scratch](https://youtu.be/h-igXZCCrrc)
+This is simple Chat UI built with Flutter:
 
-[Complete Chat UI](https://github.com/MarcusNg/flutter_chat_ui)
+Credits to:
+1.YouTube video: [Flutter Chat UI Tutorial | Apps From Scratch](https://youtu.be/h-igXZCCrrc)
+2.Built-in package [flutter_login 1.0.14](https://pub.dev/packages/flutter_login#-readme-tab-)
+3.Menu-Bar from FlutterX UI android app.
